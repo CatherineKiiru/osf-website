@@ -10,13 +10,15 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      display: ["source sans", "avenir", "gotham", "ubuntu", "anisette-std", "work-sans", "clash-display"],
-      body: ["source sans", "avenir", "gotham", "ubuntu", "anisette-std", "work-sans", "clash-display"],
+      display: ["source sans", "avenir", "gotham", "ubuntu", "humane", "helvetica", "anisette-std", "work-sans", "clash-display"],
+      body: ["source sans", "avenir", "gotham", "ubuntu", "humane", "helvetica", "anisette-std", "work-sans", "clash-display"],
       avenir: ["avenir"],
       ubuntu: ["ubuntu"],
       anisette: ["anisette"],
       workSans: ["work-sans"],
-      clashDisplay: ["clash-display"]
+      clashDisplay: ["clash-display"],
+      humane: ["humane"],
+      helvetica: ["helvetica"]
     },
     prefix: "oc-",
     extend: {
