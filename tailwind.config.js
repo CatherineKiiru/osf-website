@@ -17,8 +17,12 @@ module.exports = {
       anisette: ["anisette"],
       workSans: ["work-sans"],
       clashDisplay: ["clash-display"],
+<<<<<<< HEAD
       humane: ["humane"],
       helvetica: ["helvetica"]
+=======
+      humane: ["humane"]
+>>>>>>> cbb956e73ff8f33223f5b21a64d3fe992cfa9b8d
     },
     prefix: "oc-",
     extend: {
