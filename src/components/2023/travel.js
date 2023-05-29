@@ -1,8 +1,8 @@
 import React from "react";
-import Layout from "../../components/layout";
-import SEO from "../../components/SEO/seo";
-import Breadcrumb from "../../components/2023/breadcrumb";
-import Hotels from "../../components/2023/hotels";
+import Layout from "../layout";
+import SEO from "../SEO/seo";
+import Breadcrumb from "./breadcrumb";
+import Hotels from "./hotels";
 
 function Travel() {
   return (
